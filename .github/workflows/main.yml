@@ -17,4 +17,4 @@ jobs:
           base_uri: https://ast.checkmarx.net/
           cx_tenant: "becu-poc-ast"
           cx_client_id: "testClientId"
-          cx_client_secret: ${{ secrets.clientSecret }}
+          cx_client_secret: "7039b780-1a18-408d-a1b5-c330021788f7"
